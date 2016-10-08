@@ -2,6 +2,6 @@ function setup() {
 
 }
 
-function draw() { elipse(100,100,100,100);
+function draw() { ellipse(100,100,100,100);
 
 }
